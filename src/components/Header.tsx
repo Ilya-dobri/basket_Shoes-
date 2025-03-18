@@ -39,7 +39,7 @@ const Header: React.FC<Props> = () => {
             <h1>New Balance</h1>
             <button
               onClick={toggleTheme}
-              className={`p-2 row-auto rounded transition-colors duration-300 ${
+              className={`p-2  row-auto rounded-4xl transition-colors duration-300 cursor-pointer  ${
                 theme === "light" ? "bg-black text-white" : "bg-white text-black"
               }`}
             >
