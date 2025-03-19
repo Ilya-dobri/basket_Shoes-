@@ -10,11 +10,11 @@ interface ThemeStore {
 }
 
 export const useThemeStore = create<ThemeStore>((set) => ({
-  theme: (getCookie("theme") as Theme) || "light", // Читаем из cookies
+  theme: (getCookie("theme") as Theme) || "light", 
   
   setTheme: (theme) => {
     set({ theme });
-    setCookie("theme", theme, { maxAge: 60 * 60 * 24 * 365 }); // Сохраняем на 1 год
+    setCookie("theme", theme, { maxAge: 60 * 60 * 24 * 365 }); 
     document.documentElement.setAttribute("data-theme", theme);
   },
 
