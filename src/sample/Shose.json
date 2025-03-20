@@ -1,0 +1,219 @@
+[
+    {
+      "brand": "Nike",
+      "name": "LeBron 20",
+      "img": "https://example.com/nike-lebron-20.jpg",
+      "price": 200,
+      "category": "Basketball Shoes",
+      "rating": 4.9
+    },
+    {
+      "brand": "Nike",
+      "name": "Air Force 1",
+      "img": "https://example.com/nike-air-force-1.jpg",
+      "price": 120,
+      "category": "Casual Shoes",
+      "rating": 4.8
+    },
+    {
+      "brand": "Nike",
+      "name": "ZoomX Vaporfly",
+      "img": "https://example.com/nike-zoomx-vaporfly.jpg",
+      "price": 250,
+      "category": "Running Shoes",
+      "rating": 4.9
+    },
+    {
+      "brand": "Nike",
+      "name": "Dunk Low",
+      "img": "https://example.com/nike-dunk-low.jpg",
+      "price": 110,
+      "category": "Casual Shoes",
+      "rating": 4.7
+    },
+    {
+      "brand": "Nike",
+      "name": "Blazer Mid '77",
+      "img": "https://example.com/nike-blazer-mid-77.jpg",
+      "price": 100,
+      "category": "Casual Shoes",
+      "rating": 4.6
+    },
+    {
+      "brand": "Nike",
+      "name": "Kyrie Infinity",
+      "img": "https://example.com/nike-kyrie-infinity.jpg",
+      "price": 140,
+      "category": "Basketball Shoes",
+      "rating": 4.8
+    },
+    {
+      "brand": "Nike",
+      "name": "Pegasus 40",
+      "img": "https://example.com/nike-pegasus-40.jpg",
+      "price": 130,
+      "category": "Running Shoes",
+      "rating": 4.7
+    },
+    {
+      "brand": "Nike",
+      "name": "React Infinity Run 3",
+      "img": "https://example.com/nike-react-infinity-run-3.jpg",
+      "price": 160,
+      "category": "Running Shoes",
+      "rating": 4.8
+    },
+    {
+      "brand": "Nike",
+      "name": "GT Cut 2",
+      "img": "https://example.com/nike-gt-cut-2.jpg",
+      "price": 170,
+      "category": "Basketball Shoes",
+      "rating": 4.9
+    },
+    {
+      "brand": "Nike",
+      "name": "Air Max 97",
+      "img": "https://example.com/nike-air-max-97.jpg",
+      "price": 180,
+      "category": "Casual Shoes",
+      "rating": 4.8
+    },
+    {
+      "brand": "Adidas",
+      "name": "Ultraboost 23",
+      "img": "https://example.com/adidas-ultraboost-23.jpg",
+      "price": 190,
+      "category": "Running Shoes",
+      "rating": 4.7
+    },
+    {
+      "brand": "Adidas",
+      "name": "Superstar",
+      "img": "https://example.com/adidas-superstar.jpg",
+      "price": 100,
+      "category": "Casual Shoes",
+      "rating": 4.6
+    },
+    {
+      "brand": "Adidas",
+      "name": "Dame 8",
+      "img": "https://example.com/adidas-dame-8.jpg",
+      "price": 130,
+      "category": "Basketball Shoes",
+      "rating": 4.8
+    },
+    {
+      "brand": "Adidas",
+      "name": "Forum Low",
+      "img": "https://example.com/adidas-forum-low.jpg",
+      "price": 110,
+      "category": "Casual Shoes",
+      "rating": 4.7
+    },
+    {
+      "brand": "Adidas",
+      "name": "NMD_R1",
+      "img": "https://example.com/adidas-nmd-r1.jpg",
+      "price": 150,
+      "category": "Casual Shoes",
+      "rating": 4.7
+    },
+    {
+      "brand": "Adidas",
+      "name": "Harden Vol. 7",
+      "img": "https://example.com/adidas-harden-vol-7.jpg",
+      "price": 160,
+      "category": "Basketball Shoes",
+      "rating": 4.9
+    },
+    {
+      "brand": "Adidas",
+      "name": "Adizero Adios Pro 3",
+      "img": "https://example.com/adidas-adizero-adios-pro-3.jpg",
+      "price": 220,
+      "category": "Running Shoes",
+      "rating": 4.8
+    },
+    {
+      "brand": "Adidas",
+      "name": "Ozweego",
+      "img": "https://example.com/adidas-ozweego.jpg",
+      "price": 120,
+      "category": "Casual Shoes",
+      "rating": 4.6
+    },
+    {
+      "brand": "Adidas",
+      "name": "Terrex Free Hiker 2",
+      "img": "https://example.com/adidas-terrex-free-hiker-2.jpg",
+      "price": 200,
+      "category": "Hiking Shoes",
+      "rating": 4.8
+    },
+    {
+      "brand": "Adidas",
+      "name": "Stan Smith",
+      "img": "https://example.com/adidas-stan-smith.jpg",
+      "price": 90,
+      "category": "Casual Shoes",
+      "rating": 4.7
+    },
+    {
+      "brand": "Puma",
+      "name": "RS-X",
+      "img": "https://example.com/puma-rs-x.jpg",
+      "price": 110,
+      "category": "Casual Shoes",
+      "rating": 4.5
+    },
+    {
+      "brand": "Puma",
+      "name": "Deviate Nitro 2",
+      "img": "https://example.com/puma-deviate-nitro-2.jpg",
+      "price": 160,
+      "category": "Running Shoes",
+      "rating": 4.7
+    },
+    {
+      "brand": "Puma",
+      "name": "Clyde All-Pro",
+      "img": "https://example.com/puma-clyde-all-pro.jpg",
+      "price": 140,
+      "category": "Basketball Shoes",
+      "rating": 4.6
+    },
+    {
+      "brand": "Puma",
+      "name": "Future Rider",
+      "img": "https://example.com/puma-future-rider.jpg",
+      "price": 100,
+      "category": "Casual Shoes",
+      "rating": 4.5
+    },
+    {
+      "brand": "New Balance",
+      "name": "990v6",
+      "img": "https://example.com/nb-990v6.jpg",
+      "price": 200,
+      "category": "Casual Shoes",
+      "rating": 4.9
+    },
+    {
+      "brand": "New Balance",
+      "name": "Fresh Foam X 1080",
+      "img": "https://example.com/nb-fresh-foam-1080.jpg",
+      "price": 160,
+      "category": "Running Shoes",
+      "rating": 4.8
+    },
+    {
+      "brand": "New Balance",
+      "name": "327",
+      "img": "https://yesoriginal.com.ua/image/cache/catalog/additional_disk/cover_2/U327WRF-1215x1280.webp",
+      "price": 110,
+      "category": "Casual Shoes",
+      "rating": 4.7
+    }
+  ]
+  

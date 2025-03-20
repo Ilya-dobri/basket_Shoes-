@@ -18,7 +18,7 @@ const buttonVariants = cva(
         secondary:
           "bg-secondary text-secondary-foreground shadow-xs hover:bg-secondary/80",
         ghost:
-          "hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50 !text-[20px] ",
+          "hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50 !text-[20px] cursor-pointer ",
         link: "text-primary underline-offset-4 hover:underline",
         header: "bg-primary cursor-pointer bg-black flex items-center justify-center size-10 h-12 px-6 text-lg text-primary-foreground hover:bg-primary/90",
 
