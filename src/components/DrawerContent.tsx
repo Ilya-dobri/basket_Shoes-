@@ -10,7 +10,8 @@ import {
   DrawerTrigger,
 } from "../ui/drawer";
 import { Button } from "@/ui/button";
-import Shouse from "../sample/Shose.json";
+import categories from "../sample/categories.json";
+import DraverCategoriesShosesForBrand from "./DraverCategoriesShosesForBrand";
 type Props = {
   ButtonVariant:
     | "link"
@@ -34,18 +35,11 @@ const CustomDrawer: React.FC<Props> = ({ ButtonVariant, NameShoes }) => {
         <DrawerHeader>
           <DrawerTitle>
             Меню
-            <div>
-              {Shouse.filter((shose) => shose.brand === NameShoes).map(
-                (shose, id) => (
-                  <React.Fragment key={id}>
-                  <p>
-                    {shose.name} {shose.brand}
-                  </p>
-                  <img src={shose.img} alt="" />
-                </React.Fragment>
-                )
-              )}
-            </div>
+            <div className="p-4">
+          {Object.entries(categories.brands).filter(([brand]) => brand === NameShoes).map(([brand, data]) => (
+            <DraverCategoriesShosesForBrand key={brand} brand={brand} categories={data} />
+          ))}
+        </div>
           </DrawerTitle>
           <DrawerDescription>бренд: {NameShoes}</DrawerDescription>
         </DrawerHeader>
